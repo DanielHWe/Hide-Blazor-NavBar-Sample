@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hide_BlazorNavBar_Sample", "Hide_BlazorNavBar_Sample\Hide_BlazorNavBar_Sample.csproj", "{81E2854F-DCF8-4C97-A810-F6EC9542C548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E2854F-DCF8-4C97-A810-F6EC9542C548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E2854F-DCF8-4C97-A810-F6EC9542C548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E2854F-DCF8-4C97-A810-F6EC9542C548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E2854F-DCF8-4C97-A810-F6EC9542C548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FFDDDC0-61DE-43D7-ABB6-A7A9D73B8087}
+	EndGlobalSection
+EndGlobal
